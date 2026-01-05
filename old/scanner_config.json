@@ -1,0 +1,8 @@
+{
+  "threads": 100,
+  "timeout": 0.1,
+  "auto_save": true,
+  "save_logs": true,
+  "dark_mode": false,
+  "show_closed": true
+}

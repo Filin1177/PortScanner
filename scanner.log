@@ -1,0 +1,41 @@
+[2026-01-05 16:02:30] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:05:15] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:36:59] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:37:29] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 16:40:00] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:40:30] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 16:40:36] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:41:04] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:41:31] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:42:01] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 16:42:29] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:42:59] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 16:43:20] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:43:50] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 16:47:57] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:48:27] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 16:48:48] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:49:18] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:00:07] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 17:00:37] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:05:50] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 17:06:20] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:11:28] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 17:11:58] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:12:24] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 17:12:50] [INFO] HTTPSConnectionPool(host='0.0.0.0', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Bad Gateway')))
+[2026-01-05 17:12:54] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:13:06] [INFO] HTTPSConnectionPool(host='ping.gg.pvp', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Bad Gateway')))
+[2026-01-05 17:13:06] [INFO] HTTPSConnectionPool(host='ping.gg.pvp', port=443): Max retries exceeded with url: / (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 502 Bad Gateway')))
+[2026-01-05 17:13:35] [INFO] Настройки сохранены
+[2026-01-05 17:13:36] [INFO] Создана резервная копия: backups\backup_config_2026-01-05_17-13-35.json
+[2026-01-05 17:27:35] [ERROR] Ошибка загрузки конфигурации: 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:27:35] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:27:36] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 17:27:52] [ERROR] Ошибка загрузки конфигурации: 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:27:52] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:27:53] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 17:28:58] [ERROR] Ошибка загрузки конфигурации: 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:28:58] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 17:28:58] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 17:29:28] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'

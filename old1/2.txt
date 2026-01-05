@@ -1,0 +1,24 @@
+        ttk.Label(count_frame, text="Количество пакетов:").pack(side=tk.LEFT, padx=5)
+        count_var = tk.StringVar(value="4")
+        count_combo = ttk.Combobox(count_frame, textvariable=count_var,
+                                   values=["1", "2", "4", "8", "16"], width=10, state='readonly')
+        count_combo.pack(side=tk.LEFT, padx=5)
+
+        size_frame = ttk.Frame(main_frame)
+        size_frame.pack(fill=tk.X, pady=5)
+
+        ttk.Label(size_frame, text="Размер пакета (байт):").pack(side=tk.LEFT, padx=5)
+        size_var = tk.StringVar(value="32")
+        size_combo = ttk.Combobox(size_frame, textvariable=size_var,
+                                  values=["32", "64", "128", "256", "512", "1024"], width=10, state='readonly')
+        size_combo.pack(side=tk.LEFT, padx=5)
+
+        timeout_frame = ttk.Frame(main_frame)
+        timeout_frame.pack(fill=tk.X, pady=5)
+
+        ttk.Label(timeout_frame, text="Таймаут (сек):").pack(side=tk.LEFT, padx=5)
+        timeout_var = tk.StringVar(value="2")
+        timeout_combo = ttk.Combobox(timeout_frame, textvariable=timeout_var,
+                                     values=["1", "2", "3", "5", "10"], width=10, state='readonly')
+        timeout_combo.pack(side=tk.LEFT, padx=5)
+ДА пользовательский ввод инекция да?

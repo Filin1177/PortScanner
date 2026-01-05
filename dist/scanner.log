@@ -1,0 +1,10 @@
+[2026-01-05 16:00:38] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:01:08] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 16:01:23] [INFO] Загружено: http://localhost:8080
+[2026-01-05 16:01:26] [INFO] Начато сканирование localhost:1-1024
+[2026-01-05 16:01:28] [INFO] timed out
+[2026-01-05 16:01:30] [INFO] [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+[2026-01-05 16:01:37] [INFO] Сканирование завершено. Открыто портов: 2. Время: 11.16 сек
+[2026-01-05 16:02:49] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
+[2026-01-05 16:03:19] [INFO] 'MegaPortScanner' object has no attribute 'var_auto_save'
+[2026-01-05 16:03:56] [INFO] HTTPSConnectionPool(host='api.ipify.org', port=443): Max retries exceeded with url: /?format=json (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))
